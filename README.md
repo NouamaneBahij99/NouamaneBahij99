@@ -88,6 +88,7 @@ en combinant **technologies modernes**, **bonnes pratiques** et **architecture p
 ### 🤖 IA & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
