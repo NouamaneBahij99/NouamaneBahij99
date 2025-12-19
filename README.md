@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="140" style="border-radius:50%"/>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQE64wIrTuoMGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729010873756?e=1767830400&v=beta&t=t2SyWYx1w4u9VZVAaWGW3Edbv2OdVqtpLfYaVD9nnJI" 
+       width="140" 
+       style="border-radius:50%;" 
+       alt="Nouâmane Bahij Profile Picture"/>
+</p>
 
 # 👋 Hi, I'm **Nouâmane Bahij**
 
