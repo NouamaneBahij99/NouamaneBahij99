@@ -11,13 +11,12 @@
 Ingénieur Informatique · Full-Stack & Mobile Developer · AI Enthusiast
 </h3>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:bahijnouamane6@gmail.com">📧 Email</a> ·
+  <a href="https://linkedin.com/in/nouâmane-bahij-a19543188">💼 LinkedIn</a> ·
+  <a href="https://github.com/NouamaneBahij99">💻 GitHub</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nouâmane_Bahij-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nouâmane-bahij-a19543188)
-[![GitHub](https://img.shields.io/badge/GitHub-NouamaneBahij99-181717?style=for-the-badge&logo=github)](https://github.com/NouamaneBahij99)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-CF3085?style=for-the-badge&logo=gmail)](mailto:bahijnouamane6@gmail.com)
-
-</div>
 
 ---
 
