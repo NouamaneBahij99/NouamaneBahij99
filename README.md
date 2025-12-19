@@ -31,12 +31,16 @@ en combinant **technologies modernes**, **bonnes pratiques** et **architecture p
 
 ## 🧠 Domaines d’expertise
 
-- 📱 **Développement Mobile** (Flutter, Firebase)
-- 🌐 **Développement Web Full-Stack**
-- 🤖 **IA & LLM** (Computer Vision, LLM Client, AI Analysis)
-- 🧩 **Microservices & Architecture Hexagonale**
-- 🔐 **Sécurité & Cybersecurity**
-- ⚙️ **APIs REST & Backend Scalables**
+- 📱 **Développement Mobile** : Flutter, Dart, Firebase, API REST  
+- 🌐 **Développement Web Full-Stack** : HTML5, CSS3, JavaScript, Angular, React, Node.js, PHP, Django  
+- ⚙️ **Backend & Bases de données** : Java, C#, C++, Python, SQL, PL/SQL, PostgreSQL, MongoDB, MySQL  
+- 🤖 **IA & LLM** : Computer Vision, LLM Client, AI Analysis  
+- 🧩 **Microservices & Architecture Hexagonale**  
+- 🔐 **Sécurité & Cybersecurity**  
+- ⚙️ **APIs REST & Backend Scalables**  
+- 🛠️ **Environnements & Outils** : IntelliJ IDEA, Visual Studio Code, Android Studio, Eclipse  
+- 🔄 **Contrôle de version** : Git / GitHub  
+- 📋 **Méthodologie** : Agile Scrum  
 
 ---
 
@@ -55,16 +59,19 @@ en combinant **technologies modernes**, **bonnes pratiques** et **architecture p
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 ---
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle)
 
 ---
 
