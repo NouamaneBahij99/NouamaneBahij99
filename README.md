@@ -29,61 +29,65 @@ en combinant **technologies modernes**, **bonnes pratiques** et **architecture p
 
 ---
 
-## 🧠 Compétences
+## 🧠 Domaines d’expertise
 
-### 📱 Développement Mobile
-- Flutter  
-- Dart  
-- Firebase  
-- API REST  
+- 📱 **Développement Mobile** : Flutter, Dart, Firebase, API REST  
+- 🌐 **Développement Web Full-Stack** : HTML5, CSS3, JavaScript, Angular, React, Node.js, PHP, Django  
+- ⚙️ **Backend & Bases de données** : Java, C#, C++, Python, SQL, PL/SQL, PostgreSQL, MongoDB, MySQL  
+- 🤖 **IA & LLM** : Computer Vision, LLM Client, AI Analysis  
+- 🧩 **Microservices & Architecture Hexagonale**  
+- 🔐 **Sécurité & Cybersecurity**  
+- ⚙️ **APIs REST & Backend Scalables**  
+- 🛠️ **Environnements & Outils** : IntelliJ IDEA, Visual Studio Code, Android Studio, Eclipse  
+- 🔄 **Contrôle de version** : Git / GitHub  
+- 📋 **Méthodologie** : Agile Scrum  
 
-### 🌐 Développement Web
-- HTML5  
-- CSS3  
-- JavaScript  
-- Angular  
-- React  
-- Node.js  
-- PHP  
-- Django  
+---
 
-### ⚙️ Backend & Langages
-- Java  
-- C#  
-- C++  
-- Python  
-- SQL  
-- PL/SQL  
+## 🛠️ Stack Technique
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+
+---
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+
+---
 
 ### 🗄️ Bases de données
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- SQLite  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
 
 ### 🤖 IA & Data
-- TensorFlow  
-- Jupyter  
-- Computer Vision  
-- LLM Client  
-- AI Analysis  
-
-### 🧰 Environnements & Outils
-- IntelliJ IDEA  
-- Visual Studio Code  
-- Android Studio  
-- Eclipse  
-
-### 🔄 Contrôle de version
-- Git / GitHub  
-
-### 📋 Méthodologies
-- Agile Scrum  
-
-### 🔐 Sécurité & Architecture
-- Microservices & Architecture Hexagonale  
-- Sécurité / Cybersecurity  
-- APIs REST & Backend Scalables  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
@@ -125,17 +129,17 @@ en combinant **technologies modernes**, **bonnes pratiques** et **architecture p
 
 ## 🧪 Projets IA & Sécurité
 
-- 🌱 **Plant Care** – Détection maladies des plantes (CNN – 84%)  
-- 🛡️ **Malware Analysis** – Analyse comportementale (FlareVM)  
-- 🚗 **Gestion Auto-Parc** – Application J2EE  
-- 💳 **Suivi Paiements** – Application Web PHP  
+- 🌱 **Plant Care** – Détection maladies des plantes (CNN – 84%)
+- 🛡️ **Malware Analysis** – Analyse comportementale (FlareVM)
+- 🚗 **Gestion Auto-Parc** – Application J2EE
+- 💳 **Suivi Paiements** – Application Web PHP
 
 ---
 
 ## 🌍 Langues
-- 🇫🇷 Français  
-- 🇬🇧 Anglais  
-- 🇲🇦 Arabe  
+- 🇫🇷 Français
+- 🇬🇧 Anglais
+- 🇲🇦 Arabe
 
 ---
 
