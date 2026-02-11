@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D5603AQE64wIrTuoMGA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729010873756?e=1767830400&v=beta&t=t2SyWYx1w4u9VZVAaWGW3Edbv2OdVqtpLfYaVD9nnJI](https://media.licdn.com/dms/image/v2/D4D35AQGlRLZ9R_cZeg/profile-framedphoto-shrink_400_400/B4DZs3VSm6JYAc-/0/1766159887013?e=1771430400&v=beta&t=imGQdcgldJSquE-dNZKSgia4zAxDZdhm8ARngR1Cbww)"
+  <img src="https://media.licdn.com/dms/image/v2/D4D35AQGlRLZ9R_cZeg/profile-framedphoto-shrink_400_400/B4DZs3VSm6JYAc-/0/1766159887013?e=1771430400&v=beta&t=imGQdcgldJSquE-dNZKSgia4zAxDZdhm8ARngR1Cbww"
        width="150"
        style="border-radius:50%;"
        alt="Nouâmane Bahij"/>
